@@ -17,8 +17,6 @@ bash <(curl -s https://raw.githubusercontent.com/panzngen05/Pterodactyl-Theme-Au
 - Install Tema Enigma
 - Uninstall Tema
 
- (Kode Token : panzngen)
-
 ## System Support :
 
 | Operating System | Version | Supported          |
